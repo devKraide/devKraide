@@ -1,12 +1,12 @@
 
-# Hi there👋 I'm Nicolas Kraide
+# Hi there👋 I'm Nicolas Kraide 🧑‍💻
 
 ## 🚀 About Me
     I'm 17 years old brazilian boy, who studies web development and is always looking to 
-    learn other technologies and skills! 
+    learn other technologies and skills! 📈
+    
 ## 🛠 Skills
 `Javascript`, `HTML`, `CSS ` & `Node.js`
-
 
 ## 🔗 Contacts
 
