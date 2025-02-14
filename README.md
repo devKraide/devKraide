@@ -12,5 +12,4 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kraide-5523b52a9/)
 📧 Email: 
-dev.kraide@gmail.com
-nicolas.kraide@gmail.com
+dev.kraide@gmail.com | nicolas.kraide@gmail.com
