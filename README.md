@@ -6,7 +6,7 @@
     learn other technologies and skills! 📈
     
 ## 🛠 Skills
-`Javascript`, `HTML`, `CSS ` & `Node.js` `ReactJS`
+`Javascript`, `HTML`, `CSS `, `Node.js`, `ReactJS` & `Python`
 
 ## 🔗 Contacts
 
